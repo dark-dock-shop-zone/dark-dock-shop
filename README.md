@@ -71,3 +71,5 @@ Store your mnemonic code securely for account recovery.
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/shared/prefs.webp" alt="Dark Dock Login" style="max-width: 100%;"></a>
   
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/shared/folder.webp" alt="Dark Dock Register" style="max-width: 100%;"></a>
+
+Update:  18 September
